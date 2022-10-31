@@ -1,1 +1,1 @@
-#ISC project 2 by Oleh Momot xmomot00
+ISC project 2 by Oleh Momot xmomot00
